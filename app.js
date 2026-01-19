@@ -99,5 +99,4 @@ const renderRecipes = (recipesToRender) => {
     
     recipeContainer.innerHTML = recipeCardsHTML;
 };
-
 renderRecipes(recipes);
